@@ -16,10 +16,10 @@ service:
   targetPort: 80
 
 namespace:
-  name: demo-app
+  name: 5-demo
   
 labels:
   app:
     name: bb-app
-    version: 7.x.x
+    version: 7.5.0
     env: uat
