@@ -33,7 +33,7 @@ echo "<table class='container'>
                   </tr>
 				   <tr>
                       <td style='background-color:#222222'><h2>&nbsp&nbsp App Version</h2></td>
-                      <td style='background-color:#222222'><h3>&nbsp&nbsp " . 'add 7.8.1 (minor color change)' . "</h3></td>
+                      <td style='background-color:#222222'><h3>&nbsp&nbsp " . 'add 7.8.3 (minor color change)' . "</h3></td>
                   </tr>
 				  <tr>
                       <td style='background-color:#3C3C3C'><h2>&nbsp&nbsp What's new</h2></td>
